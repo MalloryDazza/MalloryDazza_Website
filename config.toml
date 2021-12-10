@@ -31,8 +31,10 @@ enableEmoji = true
   orgName = "Mallory Dazza"
   orgLocal = "France"
   description = "Site web personnel de Mallory Dazza"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  #favicon = "/static/favicon.ico"
+  favicon = "logo.png"
+  #logo = "/img/blogophonic-mark-dark.png"
+  logo = "logo.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
