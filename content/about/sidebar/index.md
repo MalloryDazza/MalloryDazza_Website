@@ -11,6 +11,8 @@ link_list:
   url: https://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/
 - name: ... Les sports de montagne avec l'USI
   url: http://escalade.usivry.org/
+- name: ... Le déréglement climatique avec le Labo1.5
+  url: https://labos1point5.org/l-enseignement
 ---
 
 ** index doesn't contain a body, just front matter above.
