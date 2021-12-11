@@ -1,6 +1,8 @@
 ---
 author: The R Markdown Team @RStudio
+type: blog
 cascade:
+  type: blog
   author: The R Markdown Team @RStudio
   show_author_byline: true
   show_comments: true

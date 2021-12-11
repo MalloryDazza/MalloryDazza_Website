@@ -1,26 +1,29 @@
 ---
 author: Mallory Dazza
 categories:
-- Jeu
-- Onde sonore
 date: "2021-12-10"
-draft: true
-excerpt: Création d'un jeu de carte inspiré de la Fresque du climat sur les ondes sonores pour un publique de seconde à première générale. 
+draft: false
+excerpt: Création d'un jeu de carte inspiré de la Fresque du Climat sur les ondes sonores pour un publique de seconde et première générale. 
 featured: true
 layout: single
 links:
-- icon: gamepad
+- icon: dice
   icon_pack: fas
-  name: Jeu
-  url: https://bakeoff.netlify.com/
-- icon: bell
+  name: jeu
+  url: TODO
+- icon: assistive-listening-systems
   icon_pack: fas
-  name: Onde sonore
-  url: https://github.com/apreshill/bakeoff
+  name: onde sonore
+  url: TODO
+- icon: download
+  icon_pack: fas
+  name: open-download
+  url: TODO
 subtitle: ""
 tags:
 - Jeu
 - Onde sonore
+- Open download
 title: Onde sonore, le jeu de carte
 ---
 

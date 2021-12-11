@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  Vous trouverez ici un apercu de mes <b> projets </b> et <b> postes </b> les plus récents. 
+  Vous trouverez ici un apercu de mes <b> projets </b> et <b> enseignements </b> les plus récents. 
   
   N'hesitez pas à explorer !
   
