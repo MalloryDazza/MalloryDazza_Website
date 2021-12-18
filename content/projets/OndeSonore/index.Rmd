@@ -25,6 +25,7 @@ tags:
 - Onde sonore
 - Open download
 title: Onde sonore, le jeu de carte
+output: bookdown::html_document2
 ---
 
 ### Inspiration
@@ -45,9 +46,11 @@ J'ai tellement aimé que j'ai voulu créer une réplique de ce jeu pour réviser
 
 Rapidement je me suis apercu que j'aurai du mal a créer une unique succession logique entre chaque carte dans le domaine des ondes sonores. J'ai donc choisi l'option d'une fresque sans lien de causalité uniforme. Certaines cartes seront reliées par association en lien avec le cours, travaux pratiques ou exercices que nous avons réalisés, d'autre seront relié par des questions etc...
 
-J'ai donc entrepris de réaliser une carte mentale du cours sur le son en pensant pouvoir traduire facilement chaque item en carte. J'en ai obtenu cette fresque qu'il faut maitenant compléter avec des images et devinettes pour rendre la mise en place plus ludique. 
+J'ai donc entrepris de réaliser une carte mentale du cours sur le son en pensant pouvoir traduire facilement chaque item en carte. J'en ai obtenu la fresque \@ref(fig:JeuSon-brouillon) qu'il faut maitenant compléter avec des images et devinettes pour rendre la mise en place plus ludique. 
 
-![Brouillon Jeu Ondes Sonores](JeuSon_brouillon.png)
+```{r JeuSon-brouillon, echo = FALSE, fig.cap = "Premier jet de la fresque avec des cartes hexagonales. [ZOOM-IN](JeuSon_brouilon_DARK.png)"}
+knitr::include_graphics("JeuSon_brouillon_350.png")
+```
 
 Cette fresque mérite quelques explications. L'hexagone centrale _Le son_ est là pour introduire les deux questions principales : _Que Mesure-t-on ?_ et _Qu'est ce que le son ?_. Les réponses, et donc les cartes adhacentes sont relié aux TP que nous avons fait : une mesure de la _Vitesse_ du son, de _l'intensité_ et du _niveau sonore_.
 

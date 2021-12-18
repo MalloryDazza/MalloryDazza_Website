@@ -12,6 +12,19 @@ categories:
 layout: single
 ---
 
+Other times, I have not used X (yet!). This happened to me recently when
+I was asked: 
+
+> *"Why aren't people using reveal.js for slides with R
+Markdown? What are the problems with reveal.js, and how can we fix
+them?"*. 
+
+What is reveal.js? Here is a demo deck:
+
+```{r echo=FALSE}
+knitr::include_url("https://revealjs.com/demo/")
+```
+
 
 ## Air quality
 
