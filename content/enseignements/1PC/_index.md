@@ -15,7 +15,7 @@ sidebar:
   title: Physique-Chimie Première Spécialité
   author: Mallory Dazza
   description: |
-
+    Cours de Spécialité  Physique-Chimie en première.
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
@@ -23,7 +23,7 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: Cours Physique-Chimie Première Spécialité  # name your series
+  series: Physique-Chimie Première Spécialité  # name your series
   author: Mallory Dazza
   show_author_byline: true
   show_post_date: true
@@ -38,5 +38,6 @@ cascade:
   categories:
   - Première Specialité
 ---
+
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**

@@ -34,7 +34,9 @@ Il y a quelques semaines je participais à une [Fresque du climat](https://fresq
 
 Le principe du jeu est simple : il faut créer une fresque à l'aide de cartes représentant certains phénomènes naturels. Par exemple, ci-dessous voici la carte des sécheresses. 
 
-![La Fresque du Climat - Les sécheresses](Fresque_Climat_Secheresse.png)
+```{r FdC-Secheresse, echo = FALSE, fig.width=10, fig.align = 'center', wd = 150, fig.cap = "Cartes des sécheresses de la Fresque du Climat. [ZOOM-IN](Fresque_Climat_Secheresse.png)"}
+knitr::include_graphics("Fresque_Climat_Secheresse.png")
+```
 
 Ces cartes sont disposées les unes par rapport aux autres sous le prisme des causes et conséquences. En ajoutant progressivement de nouvelles cartes et donc de nouveaux phénomènes les participants produisent un grande fresque décrivant les différents liens de cause à éffet du déréglement climatique.  
 
@@ -48,7 +50,7 @@ Rapidement je me suis apercu que j'aurai du mal a créer une unique succession l
 
 J'ai donc entrepris de réaliser une carte mentale du cours sur le son en pensant pouvoir traduire facilement chaque item en carte. J'en ai obtenu la fresque \@ref(fig:JeuSon-brouillon) qu'il faut maitenant compléter avec des images et devinettes pour rendre la mise en place plus ludique. 
 
-```{r JeuSon-brouillon, echo = FALSE, fig.cap = "Premier jet de la fresque avec des cartes hexagonales. [ZOOM-IN](JeuSon_brouilon_DARK.png)"}
+```{r JeuSon-brouillon, echo = FALSE, fig.align = 'center', fig.cap = "Premier jet de la fresque avec des cartes hexagonales. [ZOOM-IN](JeuSon_brouilon_DARK.png)"}
 knitr::include_graphics("JeuSon_brouillon_350.png")
 ```
 
