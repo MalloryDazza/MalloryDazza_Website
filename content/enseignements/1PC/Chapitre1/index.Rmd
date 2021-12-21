@@ -4,7 +4,7 @@ subtitle: "Comment déterminer la composition d'un système chimique ?"
 excerpt: "Afin de suivre lévolution d'un système chimique il faut trouver comment quantifier l'état d'un système chimique. Quelles sont les grandeurs physiques pertinentes ? "
 date: '2021-12-10'
 draft: false
-weigth: 2
+weigth: 1
 editor_options: 
   markdown: 
     wrap: 72

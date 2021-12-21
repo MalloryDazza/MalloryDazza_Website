@@ -1,6 +1,6 @@
 baseURL = "/"
 theme = "hugo-apero"
-languageCode = "fr"
+languageCode = "en"
 title = "Mallory Dazza"
 author = "Mallory Dazza"
 copyright = "" # set to override the auto generated copyright using org info and now year

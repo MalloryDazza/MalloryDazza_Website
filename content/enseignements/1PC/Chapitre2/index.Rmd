@@ -4,7 +4,7 @@ subtitle: "Comment déterminer l'évolution des quantités de matières d'un sys
 excerpt: "Afin de suivre l'évolution d'un système chimique nous allons découvrir un outil très utile : le tableau d'avancement."
 date: '2021-12-10'
 draft: false
-weigth: 1
+weigth: 2
 editor_options: 
   markdown: 
     wrap: 72

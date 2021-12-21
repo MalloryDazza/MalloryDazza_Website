@@ -34,7 +34,7 @@ Il y a quelques semaines je participais à une [Fresque du climat](https://fresq
 
 Le principe du jeu est simple : il faut créer une fresque à l'aide de cartes représentant certains phénomènes naturels. Par exemple, ci-dessous voici la carte des sécheresses. 
 
-```{r FdC-Secheresse, echo = FALSE, fig.width=10, fig.align = 'center', wd = 150, fig.cap = "Cartes des sécheresses de la Fresque du Climat. [ZOOM-IN](Fresque_Climat_Secheresse.png)"}
+```{r FdC-Secheresse, echo = FALSE, message = FALSE, warnong = FALSE, fig.align = 'center', fig.cap = "Cartes des sécheresses de la Fresque du Climat."}
 knitr::include_graphics("Fresque_Climat_Secheresse.png")
 ```
 
