@@ -39,5 +39,4 @@ cascade:
   - Première Specialité
 ---
 
-
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
