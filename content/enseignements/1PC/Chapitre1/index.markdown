@@ -11,20 +11,15 @@ editor_options:
     wrap: 72
 ---
 
-<style>
-.math {
-  font-size: small;
-}
-</style>
 
 # Le cours
 
-## Masse molaire d’une expèce chimique
+## Masse molaire d'une expèce chimique
 
 Les atomes sont des entités quasi indestrictibles. Le mot atome provient
-du grec ancien, `\(\alpha \tau \omicron \mu \omicron \sigma\)` \[átomos\],
-signifiant insécable. En effet, pour un chimiste l’atome est la plus
-petite partie d’un corps pouvant se combiner les uns avec les autres.
+du grec ancien, `\(\alpha \tau \omicron \mu \omicron \sigma\)` [átomos],
+signifiant insécable. En effet, pour un chimiste l'atome est la plus
+petite partie d'un corps pouvant se combiner les uns avec les autres.
 Seuls les physiciens atomique utilisant des énergies considérable
 arrivent à briser un atome et étudier leur composition quantique.
 
@@ -38,136 +33,97 @@ Thus (1) is a figure
 
 Ainsi, pour caractériser un système chimique il nou faudra simplement
 compter les atomes. Malheureusement ceux-ci sont en nombre gigantesque.
-Dans une goutte d’eau il y a `\(16 \times 10^{20}\)` molécules H<sub>2</sub>O. Il
+Dans une goutte d'eau il y a `\(16 \times 10^{20}\)` molécules H~2~O. Il
 nous faut donc trouver un moyen de compter les molécule et atomes par
 paquet et non un par un. Ces paquets sont appelés moles.
 
-Une mole d’entités contient exactement `\(6,022 140 76 \times 10^{23}\)`
+Une mole d'entités contient exactement `\(6,022 140 76 \times 10^{23}\)`
 entités (atomes ou molécules). Nous utiliserons la valeur arrondie à
 `\(6 \times 10^{23}\)` entités.
 
-<div class="definition">
-
-Le nombre d’entités, atomes, molécules, particules, ions etc… dans une
-mole de matière est la constante d’Avogadro. Elle est notée
+::: definition
+Le nombre d'entités, atomes, molécules, particules, ions etc... dans une
+mole de matière est la constante d'Avogadro. Elle est notée
 `$$N_A = 6,02 \times 10^{23} \text{ entités / mol}$$`
+:::
 
-</div>
-
-Il n’en reste pas moins que dans la vie de tous les jours, nous sommes
+Il n'en reste pas moins que dans la vie de tous les jours, nous sommes
 plus familier avec les notions de masse. Il est plus simple de peser un
 solide que de compter ses atomes ! Ainsi, nous utilierons souvent la
-masse d’une mole de matière.
+masse d'une mole de matière.
 
-’’‘{.definition}
-La masse molaire, notée `\(M\)` est la masse d’une mole de matière. Elle
-s’exprime en g.mol$^{-1}$’’’
-
+{{< panelset class="greetings" >}}
+{{< panel name="Definition" >}}
+La masse molaire, notée `\(M\)` est la masse d'une mole de matière. Elle
+s'exprime en `\(\text{g.mol}^{-1}\)`
+{{< /panel >}}
+{{< panel name="Utilisation" >}}
 Cette grandeur est très facile à utiliser : elle représente la masse
-d’un nombre fixe d’entités (atome ou molécule).
+d'un nombre fixe d'entités (atome ou molécule). TODO exemple
+{{< /panel >}}
+{{< /panelset >}}
 
 **Question à mis parcours**
 
-<div class="panelset">
-
-<div class="panel">
-
-<div class="panel-name">
-
-Question ?
-
-</div>
-
-<!-- Panel content -->
-<p>
-
-La masse molaire de l’oxygène étant de 16 g.mol$^{-1}$. Quelle est la
-masse molaire de la molécule de dioxygène O$_2$ ?
-
-</p>
-
-</div>
-
-<div class="panel">
-
-<div class="panel-name">
-
-Réponse !
-
-</div>
-
-<!-- Panel content -->
-<p>
-
-Il le même nombre d’atome d’oxygène dans une mole d’oxygène que de
+{{< panelset class="greetings" >}}
+{{< panel name="Question ?" >}}
+La masse molaire de l'oxygène étant de 16 `\(\text{g.mol}^{-1}\)`. Quelle est la
+masse molaire de la molécule de dioxygène `\(\text{O}_2\)` ?
+{{< /panel >}}
+{{< panel name="Réponse" >}}
+  Il le même nombre d'atome d'oxygène dans une mole d'oxygène que de
 molécule de dioxygène dans une mole de dioxygène. Ainsi, la masse
-molaire du dioxygène est le double de la masse molaire d’oxygène :
+molaire du dioxygène est le double de la masse molaire d'oxygène : 
 $$ 
-  \begin{aligned}
-  M_{O_2} &= 2 \times M_{O}\\
-  &= 2 \times 16\\
-  &= 32 \text{ g.mol}^{-1}
-  \end{aligned}
+  M_{O_2} = 2 \times M_{O}
+  = 2 \times 16
+  = 32 \text{ g.mol}^{-1}
 $$
+{{< /panel >}}
+{{< /panelset >}}
 
-</p>
-
-</div>
-
-</div>
 
 *Rappel: Un élément chimique est définit par le nombre de proton au sein
-de son noyaux. Ainsi, tous les atomes d’oxygène ont 8 protons, tous les
-atomes de carbone ont 6 protons etc…*
+de son noyaux. Ainsi, tous les atomes d'oxygène ont 8 protons, tous les
+atomes de carbone ont 6 protons etc...*
 
-Nous savons que la masse d’un atome provient principalement de la masse
+Nous savons que la masse d'un atome provient principalement de la masse
 du noyaux. en effet, le électrons sont extrémement légers en comparaison
 aux nucléons. Ainsi, la masse molaire est directement lié à la masse du
-noyau des atomes. Or la stabilité du noyau d’un même élément chimique
-n’est pas toujours la même. En effet, il existe pour un même éléments
+noyau des atomes. Or la stabilité du noyau d'un même élément chimique
+n'est pas toujours la même. En effet, il existe pour un même éléments
 chimique plusieurs isotopes. Par exemple, un isotope du carbone 12
 contenant 6 protons et 6 neutrons est le carbone 14 contenant 6 proton
-et 8 neutrons. La masse d’une mole de carbone 12 est plus petite qu’une
-masse d’atome de carbone 14.
+et 8 neutrons. La masse d'une mole de carbone 12 est plus petite qu'une
+masse d'atome de carbone 14.
 
-Comment savoir si dans une molécule de sucre C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> nous avons
+Comment savoir si dans une molécule de sucre C~12~H~22~O~11~ nous avons
 plus de carbone 14 ou de carbone 12 ?
 
 La masse molaire que nous utilisons, et que nous trouverons dans le
-tableau périodique des éléments prend en comptes l’abondance naturel des
+tableau périodique des éléments prend en comptes l'abondance naturel des
 isotope de chaque élément. Ainsi, la masse molaire est une moyenne sur
-l’ensemble des isotopes les plus\* stables.
+l'ensemble des isotopes les plus* stables.
 
 **Formule A Retenir**: La masse molaire moléculaire est la
 somme des masses molaires des atomes qui la constitue :
 
 $$ M_{\text{molecule}} = \sum M_{atome}$$ **Question à mis parcours**
 
-<div class="panelset">
-
-<div class="panel">
-
-<div class="panel-name">
-
+::: panelset
+::: panel
+::: panel-name
 Question ?
-
-</div>
-
+:::
 <!-- Panel content -->
 <p>
-Quelle est la masse molaire du saccharose C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> ?
+Quelle est la masse molaire du saccharose C~12~H~22~O~11~ ?
 </p>
-
-</div>
-
-<div class="panel">
-
-<div class="panel-name">
-
+:::
+::: panel
+::: panel-name
 Réponse !
-
-</div>
-
+:::
 <!-- Panel content -->
 <p>
 $$ 
@@ -178,36 +134,22 @@ $$
   \end{aligned}
   $$
 </p>
-
-</div>
-
-</div>
-
-<div class="panelset">
-
-<div class="panel">
-
-<div class="panel-name">
-
+:::
+:::
+::: panelset
+::: panel
+::: panel-name
 Question ?
-
-</div>
-
+:::
 <!-- Panel content -->
 <p>
-Quelle est la masse molaire de l’ion Cu$^{2+}$ ?
+Quelle est la masse molaire de l'ion Cu$^{2+}$ ?
 </p>
-
-</div>
-
-<div class="panel">
-
-<div class="panel-name">
-
+:::
+::: panel
+::: panel-name
 Réponse !
-
-</div>
-
+:::
 <!-- Panel content -->
 <p>
 La masse des électrons étant négligée :
@@ -215,9 +157,7 @@ $$
 M_{Cu^{2+}} = M_{Cu} = 63,5 \text{ g.mol}^{-1}
 $$
 </p>
-
-</div>
-
-</div>
+:::
+:::
 
 ## Quantité de matière

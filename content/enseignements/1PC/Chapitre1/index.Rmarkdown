@@ -11,13 +11,6 @@ editor_options:
     wrap: 72
 ---
 
-```{=html}
-<style>
-.math {
-  font-size: small;
-}
-</style>
-```
 
 # Le cours
 
@@ -59,55 +52,36 @@ plus familier avec les notions de masse. Il est plus simple de peser un
 solide que de compter ses atomes ! Ainsi, nous utilierons souvent la
 masse d'une mole de matière.
 
-'''{.definition}
+{{< panelset class="greetings" >}}
+{{< panel name="Definition" >}}
 La masse molaire, notée $M$ est la masse d'une mole de matière. Elle
-s'exprime en g.mol$^{-1}$
-'''
-
+s'exprime en $\text{g.mol}^{-1}$
+{{< /panel >}}
+{{< panel name="Utilisation" >}}
 Cette grandeur est très facile à utiliser : elle représente la masse
-d'un nombre fixe d'entités (atome ou molécule).
+d'un nombre fixe d'entités (atome ou molécule). TODO exemple
+{{< /panel >}}
+{{< /panelset >}}
 
 **Question à mis parcours**
 
-::: panelset
-::: panel
-::: panel-name
-Question ?
-:::
-
-<!-- Panel content -->
-
-<p>
-
-La masse molaire de l'oxygène étant de 16 g.mol$^{-1}$. Quelle est la
-masse molaire de la molécule de dioxygène O$_2$ ?
-
-</p>
-:::
-
-::: panel
-::: panel-name
-Réponse !
-:::
-
-<!-- Panel content -->
-
-<p>
-
-Il le même nombre d'atome d'oxygène dans une mole d'oxygène que de
+{{< panelset class="greetings" >}}
+{{< panel name="Question ?" >}}
+La masse molaire de l'oxygène étant de 16 $\text{g.mol}^{-1}$. Quelle est la
+masse molaire de la molécule de dioxygène $\text{O}_2$ ?
+{{< /panel >}}
+{{< panel name="Réponse" >}}
+  Il le même nombre d'atome d'oxygène dans une mole d'oxygène que de
 molécule de dioxygène dans une mole de dioxygène. Ainsi, la masse
 molaire du dioxygène est le double de la masse molaire d'oxygène : 
 $$ 
-  \begin{aligned}
-  M_{O_2} &= 2 \times M_{O}\\
-  &= 2 \times 16\\
-  &= 32 \text{ g.mol}^{-1}
-  \end{aligned}
+  M_{O_2} = 2 \times M_{O}
+  = 2 \times 16
+  = 32 \text{ g.mol}^{-1}
 $$
+{{< /panel >}}
+{{< /panelset >}}
 
-</p>
-:::
-:::
 
 *Rappel: Un élément chimique est définit par le nombre de proton au sein
 de son noyaux. Ainsi, tous les atomes d'oxygène ont 8 protons, tous les
