@@ -1,6 +1,6 @@
 baseURL = "/"
 theme = "hugo-apero"
-languageCode = "en"
+languageCode = "fr"
 title = "Mallory Dazza"
 author = "Mallory Dazza"
 copyright = "" # set to override the auto generated copyright using org info and now year
@@ -67,9 +67,11 @@ enableEmoji = true
   customheadingFontFamily = ""
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "Bodoni MT"
-  headingFontFamily = "Baskerville"
-
+  #textFontFamily = "Bodoni MT"
+  #headingFontFamily = "Baskerville"
+  textFontFamily = "Palatino"
+  headingFontFamily = "Palatino"
+  
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
