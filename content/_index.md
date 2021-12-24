@@ -1,8 +1,8 @@
 ---
-action_label: Read More <i class='fas fa-rocket'></i>
+action_label: A propos <i class='fas fa-rocket'></i>
 action_link: /about
 action_type: text
-description: "Je suis professeur de physique-chimie et j'essaie de partager un maximum mes cours et expériences pédagogiques sur ce site. Venez ! Explorez !"
+description: "Je suis professeur de physique-chimie et j'essaie de partager un maximum mes cours et expériences pédagogiques sur ce site. Explorez !"
 image_left: true
 images:
 - Photo_HomePage.jpeg
