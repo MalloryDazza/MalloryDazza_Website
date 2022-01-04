@@ -5,6 +5,9 @@ environment:
 sources:
   - https://git.sr.ht/~mallorydazza/mallorydazza.srht.site
 tasks:
+- build: |
+    cd $site
+    hugo --baseURL=https://mallorydazza.srht.site
 - package: |
     cd $site
     tar -cvz . > ../site.tar.gz
