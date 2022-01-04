@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A propos on Mallory Dazza</title>
-    <link>/about/</link>
+    <link>mallorydazza.srht.site/about/</link>
     <description>Recent content in A propos on Mallory Dazza</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="mallorydazza.srht.site/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
