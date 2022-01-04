@@ -2,6 +2,8 @@ image: alpine/latest
 oauth: pages.sr.ht/PAGES:RW
 environment:
   site: mallorydazza.srht.site
+sources:
+  - https://git.sr.ht/~mallorydazza/mallorydazza.srht.site
 tasks:
 - package: |
     cd $site
