@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/mallorydazza.srht.site"
 theme = "hugo-apero"
 languageCode = "fr"
 title = "Mallory Dazza"
