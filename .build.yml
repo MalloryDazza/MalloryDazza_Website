@@ -2,6 +2,9 @@ image: alpine/latest
 oauth: pages.sr.ht/PAGES:RW
 environment:
   site: mallorydazza.srht.site
+packages:
+  - go
+  - hugo
 sources:
   - https://git.sr.ht/~mallorydazza/mallorydazza.srht.site
 tasks:
