@@ -1,8 +1,8 @@
 ---
 title: "Chapitre 1 : La mole"
 subtitle: "Comment déterminer la composition d'un système chimique ?"
-excerpt: "Afin de suivre lévolution d'un système chimique il faut trouver comment quantifier l'état d'un système chimique. Quelles sont les grandeurs physiques pertinentes ? "
-date: '2021-12-10'
+excerpt: "Afin de suivre lévolution d'un système chimique il faut trouver comment quantifier l'état d'un système chimique. Quelles sont les grandeurs physiques pertinentes ?"
+date: '2021-09-10'
 draft: false
 weigth: 1
 math: true
@@ -11,9 +11,9 @@ editor_options:
     wrap: 72
 ---
 
-# *Le cours*
+## *Le cours*
 
-## *Masse molaire d'une expèce chimique*
+### *Masse molaire d'une expèce chimique*
 
 Les atomes sont des entités quasi indestrictibles. Le mot atome provient
 du grec ancien, $\alpha \tau \omicron \mu \omicron \sigma$ [átomos],
@@ -148,7 +148,7 @@ somme des masses molaires des atomes qui la constitue :
 
 $$ M_{\text{molecule}} = \sum M_{atome}$$ 
 
-## *La quantité de matière*
+### *La quantité de matière*
 
 La quantité de matière est la grandeur physique exprimée en mol, représentant le nombre d'entités chimiques (molécules, atomes, ions etc... ) d'une substance. Par exemple, le nombre de molècule dans une masse $m=10$ g de sucre peut s'exprimée comme : 
 
@@ -157,4 +157,131 @@ La quantité de matière est la grandeur physique exprimée en mol, représentan
 
 On peut remarqué que le nombre de molécule, $N$, n'a pas d'unité : c'est un nombre de molécules de sucre. La quantité de matière, $n$ est une grandeur physique équivalente : elle représente aussi le nombre de molécules. Seulement, elle est exprimée en mole, c'est-à-dire en nombre de paquet de molécules.
 
-Voila un parapgrahe qui ne veut pas dire grand chose mais il a le merite d'êter la pour tester la mise a jou du site. 
+### *Le cas d'un gaz*
+
+### *Concentration en solution*
+
+## *Activité 1 : Création d'une carte mentale*
+
+### *Questions de préparations*
+
+---
+
+{{< panelset class="greetings" >}}
+{{< panel name="***Question 1***" >}}
+La quantité de matière d'une espèce chimique est proportionnelle à sa masse. Vrai ou Faux ?
+{{< /panel >}}
+{{< panel name="Vrai ?!" >}}
+Oui c'est vrai, la quantité de matière représente le nombre de molécule. Plus le nombre de molécule est grand, plus la masse est grande. Ces deux grandeurs physique sont effectivement proportionnelles :
+$$ 
+  n = \dfrac{m}{M}
+$$
+La constante de proportionnalité est la masse molaire $M$ de l'espèce chimique considérée. 
+{{< /panel >}}
+{{< panel name="Faux !?" >}}
+Raté ! La quantité de matière d'une espèce chimique ***est*** proportionnelle à sa masse. Plus le nombre de molécule est grand, plus la masse est grande. Ces deux grandeurs physique sont effectivement proportionnelles :
+$$ 
+  n = \dfrac{m}{M}
+$$
+La constante de proportionnalité est la masse molaire $M$ de l'espèce chimique considérée. 
+{{< /panel >}}
+{{< /panelset >}}
+
+---
+
+{{< panelset class="greetings" >}}
+{{< panel name="***Question 2***" >}}
+La concentration massique d'une solution s'exprime en $\text{g.L}^{-1}$ et correspond à la masse de soluté par litre de solution. Vrai ou Faux ?
+{{< /panel >}}
+{{< panel name="Vrai ?!" >}}
+Oui c'est vrai, la concentration massique représente la masse de soluté dissout dans un volume de solution. On peut la calculer avec la formule :
+$$ 
+  C_m = \dfrac{m_{solute}}{V_{solution}}
+$$
+{{< /panel >}}
+{{< panel name="Faux !?" >}}
+Raté ! La concentration massique représente la masse de soluté dissout dans un volume de solution. On peut la calculer avec la formule :
+$$ 
+  C_m = \dfrac{m_{solute}}{V_{solution}}
+$$
+{{< /panel >}}
+{{< /panelset >}}
+
+---
+
+{{< panelset class="greetings" >}}
+{{< panel name="***Question 3***" >}}
+La mole est l'unité de dénombrement d'entité chimique. Vrai ou Faux ?
+{{< /panel >}}
+{{< panel name="Vrai ?!" >}}
+Oui c'est vrai, la mole est l'unité de la quantité de matière. Elle permet de compter les molécules par groupe de $N_A$ entité. Ainsi, nous n'utilisons pas de puissances de 10 trop élevèes. 
+{{< /panel >}}
+{{< panel name="Faux !?" >}}
+Raté ! La mole est l'unité de la quantité de matière. Elle permet de compter les molécules par groupe de $N_A$ entité. Ainsi, nous n'utilisons pas de puissances de 10 trop élevèes.
+{{< /panel >}}
+{{< /panelset >}}
+
+---
+
+{{< panelset class="greetings" >}}
+{{< panel name="***Question 4***" >}}
+Une mole de dihydrogène contient plus de molécules qu'une mole de dioxygène. Vrai ou Faux ?
+
+*Données* : voir l'extrait du tableau périodique figure  \@ref(fig:CNO)
+{{< /panel >}}
+{{< panel name="Vrai ?!" >}}
+Raté ! Dans une mole de dihydrogène ou une mole de dioxygène, il y a autant de molécule. Une mole représente un nombre fixe de molécules : $6,02 \times 10^{23}$ molécules.
+{{< /panel >}}
+{{< panel name="Faux !?" >}}
+Bravo ! Dans une mole de dihydrogène ou une mole de dioxygène, il y a autant de molécule. Une mole représente un nombre fixe de molécules : $6,02 \times 10^{23}$ molécules.
+{{< /panel >}}
+{{< /panelset >}}
+
+---
+
+{{< panelset class="greetings" >}}
+{{< panel name="***Question 5***" >}}
+Une mole de dihydrogène est plus lourde qu'une mole de dioxygène. Vrai ou Faux ?
+
+*Données* : voir l'extrait du tableau périodique figure  \@ref(fig:CNO)
+{{< /panel >}}
+{{< panel name="Vrai ?!" >}}
+Raté ! Il y le même nombre de molécules dans une mole de dihydrogène et une mole de dioxygène, mais ces deux molécules n'ont pas la même masse. Le dioxygène est bien plus lourd que le dihydrogène. On peut le lire sur la figure \@ref(fig:CNO). La masse molaire du dioxygène est plus grande que la masse molaire du dihydrogène :
+
+$$ M_{O_2} = 31,8 \text{ g.mol}^{-1} > 2,0 \text{ g.mol}^{-1} = M_{H_2}$$
+{{< /panel >}}
+{{< panel name="Faux !?" >}}
+Bravo ! Il y le même nombre de molécules dans une mole de dihydrogène et une mole de dioxygène, mais ces deux molécules n'ont pas la même masse. Le dioxygène est bien plus lourd que le dihydrogène. On peut le lire sur la figure \@ref(fig:CNO). La masse molaire du dioxygène est plus grande que la masse molaire du dihydrogène :
+
+$$ M_{O_2} = 31,8 \text{ g.mol}^{-1} > 2,0 \text{ g.mol}^{-1} = M_{H_2}$$
+{{< /panel >}}
+{{< /panelset >}}
+
+---
+
+{{< panelset class="greetings" >}}
+{{< panel name="***Question 5***" >}}
+Le réactif limitant d'une réaction chimique est l'espèce chimique ... 
+{{< /panel >}}
+{{< panel name=" introduite en plus faible quantité" >}}
+DU TEXT 
+{{< /panel >}}
+{{< panel name="introduite en plus grande quantité" >}}
+DU TEXT 
+{{< /panel >}}
+{{< panel name="totalement consommé à la fin" >}}
+DU TEXT 
+{{< /panel >}}
+{{< panel name="totalement consommé à la fin" >}}
+DU TEXT 
+{{< /panel >}}
+{{< panel name="qui ne participe pasà la réaction" >}}
+DU TEXT
+{{< /panel >}}
+{{< /panelset >}}
+
+---
+
+### *La Carte Mentale*
+
+
