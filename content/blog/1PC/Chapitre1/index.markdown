@@ -11,7 +11,6 @@ editor_options:
     wrap: 72
 ---
 
-
 # *Le cours*
 
 ## *Masse molaire d'une expèce chimique*
@@ -93,6 +92,8 @@ Comment connaitre la masse molaire d'un élément chimique comme le cuivre ? Nou
 <p class="caption">Figure 1: Extrait du tableau périodique des éléments représentant le Carbone, Azote et Oxygène.</p>
 </div>
 
+---
+
 ***QUESTION***
 
 La masse molaire de l'oxygène étant de 16 `\(\text{g.mol}^{-1}\)`. Quelle est la
@@ -140,56 +141,13 @@ l'ensemble des isotopes les plus* stables.
 **Formule A Retenir**: La masse molaire moléculaire est la
 somme des masses molaires des atomes qui la constitue :
 
-$$ M_{\text{molecule}} = \sum M_{atome}$$ **Question à mis parcours**
+$$ M_{\text{molecule}} = \sum M_{atome}$$ 
 
-::: panelset
-::: panel
-::: panel-name
-Question ?
-:::
-<!-- Panel content -->
-<p>
-Quelle est la masse molaire du saccharose C~12~H~22~O~11~ ?
-</p>
-:::
-::: panel
-::: panel-name
-Réponse !
-:::
-<!-- Panel content -->
-<p>
-$$ 
-  \begin{aligned}
-  M_{C_{12}H_{22}O_{11}} &= 12 \times M_{C} + 22 \times M_{H} + 11 \times M_{O}\\
-  &= 12 \times 14 + 22 \times 1 + 11 \times 16\\
-  &= 366 \text{ g.mol}^{-1}
-  \end{aligned}
-  $$
-</p>
-:::
-:::
-::: panelset
-::: panel
-::: panel-name
-Question ?
-:::
-<!-- Panel content -->
-<p>
-Quelle est la masse molaire de l'ion Cu$^{2+}$ ?
-</p>
-:::
-::: panel
-::: panel-name
-Réponse !
-:::
-<!-- Panel content -->
-<p>
-La masse des électrons étant négligée :
-$$ 
-M_{Cu^{2+}} = M_{Cu} = 63,5 \text{ g.mol}^{-1}
-$$
-</p>
-:::
-:::
+## *La quantité de matière*
 
-## Quantité de matière
+La quantité de matière est la grandeur physique exprimée en mol, représentant le nombre d'entités chimiques (molécules, atomes, ions etc... ) d'une substance. Par exemple, le nombre de molècule dans une masse `\(m=10\)` g de sucre peut s'exprimée comme : 
+
+- une quantité de matière `\(n=0,05\)` mol 
+- un nombre de molécules `\(N = 0,05 \times N_A = 0,3 \times 10^{23}\)`
+
+On peut remarqué que le nombre de molécule, `\(N\)`, n'a pas d'unité : c'est un nombre de molécules de sucre. La quantité de matière, `\(n\)` est une grandeur physique équivalente : elle représente aussi le nombre de molécules. Seulement, elle est exprimée en mole, c'est-à-dire en nombre de paquet de molécules.
