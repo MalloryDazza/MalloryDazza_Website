@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeu on Mallory Dazza</title>
-    <link>mallorydazza.netlify.app/tags/jeu/</link>
+    <link>/tags/jeu/</link>
     <description>Recent content in Jeu on Mallory Dazza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="mallorydazza.netlify.app/tags/jeu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/jeu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Onde sonore, le jeu de carte</title>
-      <link>mallorydazza.netlify.app/projets/ondesonore/</link>
+      <link>/projets/ondesonore/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>mallorydazza.netlify.app/projets/ondesonore/</guid>
+      <guid>/projets/ondesonore/</guid>
       <description>Inspiration Il y a quelques semaines je participais à une Fresque du climat en ligne. Naturellement sensible au enjeux environnementaux et physicien de formation, je suis la cible parfaite pour ce genre de vulgarisation.
 Le principe du jeu est simple : il faut créer une fresque à l’aide de cartes représentant certains phénomènes naturels. Par exemple, ci-dessous voici la carte des sécheresses.
  Figure 1: Cartes des sécheresses de la Fresque du Climat.</description>
