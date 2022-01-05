@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mallory Dazza</title>
+    <link>mallorydazza.netlify.app/tags/</link>
+    <description>Recent content in Tags on Mallory Dazza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="mallorydazza.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cours</title>
+      <link>mallorydazza.netlify.app/tags/cours/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>mallorydazza.netlify.app/tags/cours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeu</title>
+      <link>mallorydazza.netlify.app/tags/jeu/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>mallorydazza.netlify.app/tags/jeu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onde sonore</title>
+      <link>mallorydazza.netlify.app/tags/onde-sonore/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>mallorydazza.netlify.app/tags/onde-sonore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open download</title>
+      <link>mallorydazza.netlify.app/tags/open-download/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>mallorydazza.netlify.app/tags/open-download/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
