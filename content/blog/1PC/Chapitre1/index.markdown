@@ -6,6 +6,11 @@ date: '2021-09-10'
 draft: false
 weigth: 1
 math: true
+links:
+- icon: save
+  icon_pack: fab
+  name: Documents
+  url: https://github.com/MalloryDazza/MalloryDazza_Website/tree/main/Documents
 editor_options: 
   markdown: 
     wrap: 72
