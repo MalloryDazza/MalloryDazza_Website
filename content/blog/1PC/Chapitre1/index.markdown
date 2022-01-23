@@ -281,4 +281,8 @@ DU TEXT
 
 ### *La Carte Mentale*
 
+### *Le Tutoriel*
+
+Voici le lien pour le tuto : [TUTO](http://mallorydazza.netlify.com/cases/case-123324)
+
 
