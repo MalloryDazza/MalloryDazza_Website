@@ -1,13 +1,17 @@
 ---
-title: "An Rmarkdown post"
-subtitle: ""
-excerpt: "testing the excerpt field"
-date: 2020-12-30
-author: "Alison Hill"
+title: "Chapitre 3 : le chp3"
+subtitle: "subtitle"
+excerpt: "excerpt field"
+date: '2021-10-28'
 draft: false
+math: true
+weight: 3
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-## Le premier titre
+## Le premier titre du chap 3
 
 Ainsi, pour caractériser un système chimique il nou faudra simplement
 compter les atomes. Malheureusement ceux-ci sont en nombre gigantesque.

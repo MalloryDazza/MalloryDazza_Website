@@ -1,0 +1,36 @@
+---
+author: Mallory Dazza
+categories: 
+- shiny
+- Rmd
+date: "2022-15-01"
+draft: false
+excerpt: test shiny app
+featured: true
+layout: single
+links:
+- icon: 
+  icon_pack: fas
+  name: 
+  url:
+subtitle: "Subtitle"
+tags:
+- Shiny
+title: Test d'une application shiny
+runtime: shiny_prerendered
+---
+
+## First App template
+```{r, echo=FALSE}
+sliderInput("bins", "Number of bins:", 30, min = 1, max = 50)
+plotOutput("distPlot")
+```
+
+```{r, context="server"}
+output$distPlot = renderPlot({
+  x = faithful[, 2]  # Old Faithful Geyser data
+  bins = seq(min(x), max(x), length.out = input$bins + 1)
+  hist(x, breaks = bins, col = 'darkgray', border = 'white')
+})
+```
+du text ici 

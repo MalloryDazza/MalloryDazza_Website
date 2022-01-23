@@ -1,13 +1,17 @@
 ---
-title: "An Rmarkdown post"
-subtitle: ""
-excerpt: "testing the excerpt field"
-date: 2020-12-30
-author: "Alison Hill"
+title: "Chapitre 2 : Le 2"
+subtitle: "le sous titre"
+excerpt: "excerpt filed"
+date: '2021-09-30'
 draft: false
+math: true
+weight: 2
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-## Le premier titre
+## Le premier titre du chap 2 
 
 Other times, I have not used X (yet!). This happened to me recently when
 I was asked: 
