@@ -7,18 +7,9 @@ show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 featured: true
+excerpt: Le resumé de ce cours
 # for series listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
-
-# for list-sidebar layout
-sidebar: 
-  title: Physique-Chimie Première Spécialité
-  author: Mallory Dazza
-  description: |
-    Cours de Spécialité  Physique-Chimie en première.
-  text_link_label: "documents PDF"
-  text_link_url: "https://github.com/MalloryDazza/MalloryDazza_Website/tree/main/Documents"
-  show_sidebar_adunit: false # show ad container
+layout: list # list, list-sidebar, list-grid
 
 # set up common front matter for all individual pages in series
 cascade:
@@ -37,6 +28,8 @@ cascade:
   - Cours
   categories:
   - Première Specialité
+  niveau:
+  - Première
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**

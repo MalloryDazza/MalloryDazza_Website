@@ -1,6 +1,5 @@
 ---
 author: Mallory Dazza
-categories:
 date: "2021-12-10"
 draft: false
 excerpt: Création d'un jeu de carte inspiré de la Fresque du Climat sur les ondes sonores pour un publique de seconde et première générale. 
@@ -24,6 +23,7 @@ tags:
 - Jeu
 - Onde sonore
 - Open download
+niveaux: ["Seconde", "Première GT"] 
 title: Onde sonore, le jeu de carte
 output: bookdown::html_document2
 ---

@@ -3,10 +3,12 @@ title: Enseignement Scientifique - Première
 description: |
   Cours Physique-Chimie du module d'enseignement scientifique de la classe de première générale.
 author: Mallory Dazza
+excerpt: "Enseignement Scientifique"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 featured: true
+niveaux: ["Première GT"]
 # for series listing page layout
 layout: list-sidebar # list, list-sidebar, list-grid
 

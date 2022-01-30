@@ -1,18 +1,23 @@
 ---
 title: "Chapitre 1 : La mole"
 subtitle: "Comment déterminer la composition d'un système chimique ?"
-excerpt: "Afin de suivre lévolution d'un système chimique il faut trouver comment quantifier l'état d'un système chimique. Quelles sont les grandeurs physiques pertinentes ?"
+excerpt: "Afin de suivre l'évolution d'un système chimique il faut trouver comment quantifier son état. Quelles sont les grandeurs physiques pertinentes ?"
 date: '2021-09-10'
+featured: true
 draft: false
 math: true
 weight: 1
+niveaux: ["Première Spé"]
 editor_options: 
   markdown: 
     wrap: 72
 ---
 
-*Document PDF* [<i class="far fa-file-pdf"></i>](https://github.com/MalloryDazza/MalloryDazza_Website/tree/main/Documents)
+*Doc PDF* [<i class="far fa-file-pdf"></i>](https://github.com/MalloryDazza/MalloryDazza_Website/tree/main/Documents)
 
+[Document PDF (282 KB)](1PC_Ch1_Activite1.pdf)
+
+s
 ## *Le cours*
 
 ### *Masse molaire d'une expèce chimique*
@@ -283,6 +288,5 @@ DU TEXT
 
 ### *Le Tutoriel*
 
-Voici le lien pour le tuto : [TUTO](http://mallorydazza.netlify.com/cases/case-123324)
-
+Voici le lien pour le tuto : [TUTO](/content/Tuto1.html)
 

@@ -6,6 +6,7 @@ date: '2021-12-10'
 draft: false
 weigth: 1
 math: true
+niveaux: ["Seconde"]
 editor_options: 
   markdown: 
     wrap: 72

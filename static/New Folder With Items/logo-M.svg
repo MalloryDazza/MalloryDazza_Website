@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26mm"
+   height="37mm"
+   viewBox="0 0 26 37"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="logo-M.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.526862"
+     inkscape:cx="13.326294"
+     inkscape:cy="72.72754"
+     inkscape:window-width="1440"
+     inkscape:window-height="800"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:Kokonor;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'Kokonor, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="4.4517922"
+       y="30.751614"
+       id="text12972"><tspan
+         sodipodi:role="line"
+         id="tspan13236" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="8.0817156"
+       y="34.107578"
+       id="text15302"><tspan
+         sodipodi:role="line"
+         id="tspan15300"
+         style="stroke-width:0.264583"
+         x="8.0817156"
+         y="34.107578" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:Kokonor;-inkscape-font-specification:'Kokonor, Normal';stroke-width:0.264583"
+       x="10.88977"
+       y="35.134914"
+       id="text16692"><tspan
+         sodipodi:role="line"
+         id="tspan16690"
+         style="stroke-width:0.264583"
+         x="10.88977"
+         y="35.134914" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.7472px;line-height:1.25;font-family:Kokonor;-inkscape-font-specification:'Kokonor, Normal';stroke-width:0.64368;fill:#103742;fill-opacity:1"
+       x="3.9760702"
+       y="-6.7562065"
+       id="text18252"><tspan
+         sodipodi:role="line"
+         id="tspan19670"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.7472px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.64368;fill:#103742;fill-opacity:1"
+         x="3.9760702"
+         y="-6.7562065" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.7472px;font-family:'Savoye LET';-inkscape-font-specification:'Savoye LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.64368;fill:#103742;fill-opacity:1"
+         x="3.9760702"
+         y="26.725582"
+         id="tspan22354">M</tspan></text>
+  </g>
+</svg>

@@ -1,4 +1,4 @@
-#baseURL = "/mallorydazza.netlify.app"
+baseURL = "/mallorydazza.netlify.app"
 theme = "hugo-apero"
 languageCode = "fr"
 title = "Mallory Dazza"
@@ -13,6 +13,10 @@ paginate = 25
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
+
+# Custom Css 
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -31,19 +35,17 @@ enableEmoji = true
   orgName = "Mallory Dazza"
   orgLocal = "France"
   description = "Site web personnel de Mallory Dazza"
-  #favicon = "/static/favicon.ico"
   favicon = "logo.png"
-  #logo = "/img/blogophonic-mark-dark.png"
   logo = "logo.png"
   mainSections = ["blog", "project"]
-  navallcaps = true
+  navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
   socialInFooter = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  # sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   # ctwitter = ""
   
@@ -67,10 +69,10 @@ enableEmoji = true
   customheadingFontFamily = ""
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  #textFontFamily = "Bodoni MT"
-  #headingFontFamily = "Baskerville"
-  textFontFamily = "Palatino"
-  headingFontFamily = "Palatino"
+  customtextFontFamily = "Bodoni MT"
+  customheadingFontFamily = "Baskerville"
+  #textFontFamily = "Palatino"
+  #headingFontFamily = "Palatino"
   
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
@@ -119,24 +121,25 @@ enableEmoji = true
   #    url       = "/blog/index.xml"
 
 [taxonomies]
-  category = "categories"
-  series = "series"
+  categorie = "categories"
+  serie = "series"
   tag = "tags"
+  niveau = "niveaux"
 
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "a propos"
+    name = "A propos"
     title = "a propos"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "projets"
+    name = "Projets"
     title = "projets"
     url = "/projets/"
     weight = 2
   [[menu.header]]
-    name = "enseignements"
+    name = "Enseignements"
     title = "enseignements"
     url = "/series/"
     weight = 3
