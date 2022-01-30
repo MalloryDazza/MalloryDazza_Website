@@ -1,4 +1,4 @@
-baseURL = "mallorydazza.netlify.app"
+#baseURL = "mallorydazza.netlify.app"
 theme = "hugo-apero"
 languageCode = "fr"
 title = "Mallory Dazza"
