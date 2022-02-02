@@ -17,7 +17,7 @@ editor_options:
 Voici le tutoriel du chapitre. Vous pouvez le faire pour revoir le cours plus rapidement. 
 
 ```{r embed-xaringan, echo=FALSE}
-xaringanExtra::embed_xaringan(url = "https://mallorydazza.github.io/Tutoriels/Tutoriel_Atomistique.html", ratio = "4:3")
+xaringanExtra::embed_xaringan(url = "https://mallorydazza.github.io/Tutoriels/Tutoriel_Atomistique.html", ratio = "16:9")
 ```
 
 # *Le cours*

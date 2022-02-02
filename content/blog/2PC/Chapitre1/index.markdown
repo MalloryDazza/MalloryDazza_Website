@@ -19,7 +19,7 @@ editor_options:
 Voici le tutoriel du chapitre. Vous pouvez le faire pour revoir le cours plus rapidement.
 
 <div class="shareagain" style="min-width:300px;margin:1em auto;">
-<iframe src="https://mallorydazza.github.io/Tutoriels/Tutoriel_Atomistique.html" width="400" height="300" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
+<iframe src="https://mallorydazza.github.io/Tutoriels/Tutoriel_Atomistique.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
 <script>fitvids('.shareagain', {players: 'iframe'});</script>
 </div>
 
