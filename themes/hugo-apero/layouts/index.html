@@ -1,41 +1,6 @@
 {{ define "main" }}
 {{ $page := . }}
 <main class="page-main pa4" role="main">
-  
-  <style>
-  @media (prefers-reduced-motion: no-preference) {
-    
-  @keyframes animate-svg-stroke-1 {
-    0% {
-      stroke-dashoffset: 364.0915832519531px;
-      stroke-dasharray: 364.0915832519531px;
-    }
-
-    100% {
-      stroke-dashoffset: 0;
-      stroke-dasharray: 364.0915832519531px;
-    }
-  }
-
-  @keyframes animate-svg-fill-1 {
-    0% {
-      fill: var(--siteBgColorCustom);
-    }
-
-    100% {
-      fill: var(--bodyLinkColorCustom);
-    }
-  }
-
-  .site-logo .site-brand-letter-g-1 {
-    -webkit-animation: animate-svg-stroke-1 4.2s cubic-bezier(0.47, 0, 0.745, 0.715) 2s,
-                       animate-svg-fill-1 1.5s cubic-bezier(0.47, 0, 0.745, 0.715) 5s;
-            animation: animate-svg-stroke-1 4.2s cubic-bezier(0.47, 0, 0.745, 0.715) 2s,
-                       animate-svg-fill-1 1.5s cubic-bezier(0.47, 0, 0.745, 0.715) 5s;
-  }
-  }
-  </style>
-  
   <section class="page-content mw10 center">
     <div class="flex-l items-center" style="{{ if .Params.image_left }}flex-direction: row-reverse;{{ end }}">
       <div class="mh4 w-50-l {{ if not .Params.text_align_left }}tr{{ end }}">
@@ -59,8 +24,8 @@
         <canvas width="400" height="250"></canvas>
       </div>
       <script>
-        var distancePerPoint = 3;
-        var drawFPS          = 300;
+        var distancePerPoint = 1.5;
+        var drawFPS          = 10000 ;
         const colors = ["#101114ff", "#1d1919ff", "#2c231eff", "#392c23ff",
           "#473529ff", "#563e2eff", "#644834ff", "#715038ff", "#7e593dff", 
           "#8e6343ff", "#a5724cff"];
@@ -92,20 +57,19 @@
 		        redrawCanvas();
 	        }
         }
-        
         function redrawCanvas(){
 	        clearCanvas();
 	        ctx.beginPath();
 	        ctx.moveTo(points[0].x+100,points[0].y+100);
 	        for (var i=1;i<points.length;i++) ctx.lineTo(points[i].x+100,points[i].y+100);
 	        ctx.stroke();
-	        if (i == 558) {
+	        if (i > 1114) {
+	          ctx.imageSmoothingQuality = "high"
 	          ctx.closePath();
 	          fillCanvas();
 	          fillTimer = setInterval(fillCanvas, 100);
 	        }
         }
-        
         function fillCanvas(){
           ctx.fillStyle = colors[c];
           ctx.fill();
