@@ -1,5 +1,9 @@
 ---
-description: "Vous trouverez ici l'ensemble de mes cours de Physique-Chimie."
+description: "__ Vous trouverez ici l'ensemble de mes cours de Physique-Chimie __
+
+____ CETTE PARTIE EST ENCORE EN CONSTRUCTION ____
+
+SOYEZ ENCORE UN PEU PATIENT "
 title: Enseignements
 layout: list # list, list-sidebar, list-grid
 ---

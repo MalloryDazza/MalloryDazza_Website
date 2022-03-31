@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physique-Chimie Première Spécialité on Mallory Dazza</title>
+    <link>https://mallorydazza.netlify.app/series/physique-chimie-premi%C3%A8re-sp%C3%A9cialit%C3%A9/</link>
+    <description>Recent content in Physique-Chimie Première Spécialité on Mallory Dazza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mallorydazza.netlify.app/series/physique-chimie-premi%C3%A8re-sp%C3%A9cialit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapitre 1 : La mole</title>
+      <link>https://mallorydazza.netlify.app/blog/1pc/chapitre1/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/blog/1pc/chapitre1/</guid>
+      <description>Doc PDF 
+ Document PDF (282 KB)
+s
+Le cours     Masse molaire d&amp;rsquo;une expèce chimique     Les atomes sont des entités quasi indestrictibles. Le mot atome provient du grec ancien, \(\alpha \tau \omicron \mu \omicron \sigma\) [átomos], signifiant insécable. En effet, pour un chimiste l&amp;rsquo;atome est la plus petite partie d&amp;rsquo;un corps pouvant se combiner les uns avec les autres. Seuls les physiciens atomique utilisant des énergies considérable arrivent à briser un atome et étudier leur composition quantique.</description>
+    </item>
+    
+    <item>
+      <title>Chapitre 2 : Le 2</title>
+      <link>https://mallorydazza.netlify.app/blog/1pc/chapitre2/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/blog/1pc/chapitre2/</guid>
+      <description>Le premier titre du chap 2     Other times, I have not used X (yet!). This happened to me recently when I was asked:
+ &amp;ldquo;Why aren&amp;rsquo;t people using reveal.js for slides with R Markdown? What are the problems with reveal.js, and how can we fix them?&amp;quot;.
+ What is reveal.js? Here is a demo deck:
+ Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.</description>
+    </item>
+    
+    <item>
+      <title>Chapitre 3 : le chp3</title>
+      <link>https://mallorydazza.netlify.app/blog/1pc/chapitre3/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/blog/1pc/chapitre3/</guid>
+      <description>Le premier titre du chap 3     Ainsi, pour caractériser un système chimique il nou faudra simplement compter les atomes. Malheureusement ceux-ci sont en nombre gigantesque. Dans une goutte d&amp;rsquo;eau il y a \(16 \times 10^{20}\) molécules H$_2$O. Il nous faut donc trouver un moyen de compter les molécule et atomes par paquet et non un par un. Ces paquets sont appelés moles.
+Une mole d&amp;rsquo;entités contient exactement \(6,022 140 76 \times 10^{23}\) entités (atomes ou molécules).</description>
+    </item>
+    
+    <item>
+      <title>Physique-Chimie Première Spécialité</title>
+      <link>https://mallorydazza.netlify.app/blog/1pc/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/blog/1pc/</guid>
+      <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
+    </item>
+    
+  </channel>
+</rss>

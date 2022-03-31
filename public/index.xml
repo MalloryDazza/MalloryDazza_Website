@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mallory Dazza</title>
+    <link>https://mallorydazza.netlify.app/</link>
+    <description>Recent content on Mallory Dazza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mallorydazza.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapitre 1 : La mole</title>
+      <link>https://mallorydazza.netlify.app/blog/1pc/chapitre1/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/blog/1pc/chapitre1/</guid>
+      <description>Doc PDF 
+ Document PDF (282 KB)
+s
+Le cours     Masse molaire d&amp;rsquo;une expèce chimique     Les atomes sont des entités quasi indestrictibles. Le mot atome provient du grec ancien, \(\alpha \tau \omicron \mu \omicron \sigma\) [átomos], signifiant insécable. En effet, pour un chimiste l&amp;rsquo;atome est la plus petite partie d&amp;rsquo;un corps pouvant se combiner les uns avec les autres. Seuls les physiciens atomique utilisant des énergies considérable arrivent à briser un atome et étudier leur composition quantique.</description>
+    </item>
+    
+    <item>
+      <title>Chapitre 2 : Le 2</title>
+      <link>https://mallorydazza.netlify.app/blog/1pc/chapitre2/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/blog/1pc/chapitre2/</guid>
+      <description>Le premier titre du chap 2     Other times, I have not used X (yet!). This happened to me recently when I was asked:
+ &amp;ldquo;Why aren&amp;rsquo;t people using reveal.js for slides with R Markdown? What are the problems with reveal.js, and how can we fix them?&amp;quot;.
+ What is reveal.js? Here is a demo deck:
+ Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.</description>
+    </item>
+    
+    <item>
+      <title>Chapitre 3 : le chp3</title>
+      <link>https://mallorydazza.netlify.app/blog/1pc/chapitre3/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/blog/1pc/chapitre3/</guid>
+      <description>Le premier titre du chap 3     Ainsi, pour caractériser un système chimique il nou faudra simplement compter les atomes. Malheureusement ceux-ci sont en nombre gigantesque. Dans une goutte d&amp;rsquo;eau il y a \(16 \times 10^{20}\) molécules H$_2$O. Il nous faut donc trouver un moyen de compter les molécule et atomes par paquet et non un par un. Ces paquets sont appelés moles.
+Une mole d&amp;rsquo;entités contient exactement \(6,022 140 76 \times 10^{23}\) entités (atomes ou molécules).</description>
+    </item>
+    
+    <item>
+      <title>Chapitre 1 : La masse volumique</title>
+      <link>https://mallorydazza.netlify.app/blog/2pc/chapitre1/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/blog/2pc/chapitre1/</guid>
+      <description>Résumé de cours   Voici le résmé de cours edu chapitre en image Vous pouvez le faire pour revoir le cours plus rapidement.
+ fitvids(&#39;.shareagain&#39;, {players: &#39;iframe&#39;});  Le cours   $$ \begin{equation} f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k} (\#eq:mean) \end{equation} $$ Thus (??) is a figure
+This is a definition 1
+{{&amp;lt; panelset class=“greetings” &amp;gt;}} {{&amp;lt; panel name=“Definition” &amp;gt;}}
+Definition 1 Le nombre d’entités, atomes, molécules, particules, ions etc… dans une mole de matière est la constante d’Avogadro.</description>
+    </item>
+    
+    <item>
+      <title>Chapitre 1.1 : TITRE</title>
+      <link>https://mallorydazza.netlify.app/blog/1es/chapitre1/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/blog/1es/chapitre1/</guid>
+      <description>Le cours   $$ \begin{equation} f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k} (\#eq:mean) \end{equation} $$ Thus, (??) is an equation
+This is a definition of 1 :
+Definition Definition 1 Le nombre d’entités, atomes, molécules, particules, ions etc… dans une mole de matière est la constante d’Avogadro. Elle est notée \[N_A = 6,02 \times 10^{23} \text{ entités / mol}\]  Utilisation Nous utiliserons souvent la mole pour compter le nombre d&amp;rsquo;atomes ou molécules dans une solution chimique.</description>
+    </item>
+    
+    <item>
+      <title>Onde sonore, le jeu de carte</title>
+      <link>https://mallorydazza.netlify.app/projets/ondesonore/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/projets/ondesonore/</guid>
+      <description>Inspiration Il y a quelques semaines je participais à une Fresque du climat en ligne. Naturellement sensible au enjeux environnementaux et physicien de formation, je suis la cible parfaite pour ce genre de vulgarisation.
+Le principe du jeu est simple : il faut créer une fresque à l’aide de cartes représentant certains phénomènes naturels. Par exemple, ci-dessous voici la carte des sécheresses.
+ Figure 1: Cartes des sécheresses de la Fresque du Climat.</description>
+    </item>
+    
+    <item>
+      <title>Me contacter</title>
+      <link>https://mallorydazza.netlify.app/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mallorydazza.netlify.app/form/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/form/license/</guid>
+      <description>book����mark����8���8���\��������m����9Q���A��������@���������������Users��������mallorydazza�����MalloryDazza_Website�����content� �����license.md���������� ���4���P�����������#M������������	����������Ze���������e��������h e����������������������������������Aì����[���������������������������������������������������������������������	��file:///�����Macintosh HD������3���������A¥�|��I$�����4913CFD2-073C-3201-9974-14BBBAE62827�����������������������������/���2�����dnib������������������������������md????����������������������������t�������������������������@����������T��4������U��@������V��,������ ��������� ��h������ ��x������ ��������� ��������� ��������� ���������0 ��,���������L��������� ����������\���������,�������������������`�������&amp;quot;���������</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://mallorydazza.netlify.app/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mallorydazza.netlify.app/license/</guid>
+      <description>L&amp;rsquo;ensemble des documents et postes de ce site sont produits par Mallory Dazza et publiés sous licence Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+    </description>
+    </item>
+    
+  </channel>
+</rss>

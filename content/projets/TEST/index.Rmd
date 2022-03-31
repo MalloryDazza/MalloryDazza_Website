@@ -1,0 +1,32 @@
+---
+author: Mallory Dazza
+date: "2021-12-10"
+draft: false
+excerpt: Test de code Python
+featured: true
+layout: single
+links:
+- icon: code
+  icon_pack: fas
+  name: 
+  url: TODO
+subtitle: ""
+tags:
+- Python
+- Rmarkdown
+title: Programmation Python
+output: bookdown::html_document2
+---
+
+### code 1 
+
+```{python}
+x = 'hello, python world!'
+print(x.split(' '))
+```
+
+```{tikz}
+\begin{tikzpicture}
+\draw (0,0) -- (4,0) -- (4,4) -- (0,4) -- (0,0);
+\end{tikzpicture}
+```
