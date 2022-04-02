@@ -20,6 +20,14 @@ Voici le tutoriel du chapitre. Vous pouvez le faire pour revoir le cours plus ra
 xaringanExtra::embed_xaringan(url = "https://mallorydazza.github.io/Tutoriels/Tutoriel_Atomistique.html", ratio = "16:9")
 ```
 
+Test d'un sketch p5.js
+
+```{r embed-p5, echo=FALSE}
+xaringanExtra::embed_xaringan(url = "https://mallorydazza.github.io/Tutoriels/p5_test.html", ratio = "16:9")
+```
+
+Fin du test
+
 # *Le cours*
 
 $$

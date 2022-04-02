@@ -13,6 +13,7 @@ editor_options:
 ---
 
 <script src="{{< blogdown/postref >}}index_files/fitvids/fitvids.min.js"></script>
+<script src="{{< blogdown/postref >}}index_files/fitvids/fitvids.min.js"></script>
 
 # *La Tutoriel*
 
@@ -22,6 +23,15 @@ Voici le tutoriel du chapitre. Vous pouvez le faire pour revoir le cours plus ra
 <iframe src="https://mallorydazza.github.io/Tutoriels/Tutoriel_Atomistique.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
 <script>fitvids('.shareagain', {players: 'iframe'});</script>
 </div>
+
+Test d’un sketch p5.js
+
+<div class="shareagain" style="min-width:300px;margin:1em auto;">
+<iframe src="https://mallorydazza.github.io/Tutoriels/p5_test.html" width="1600" height="900" style="border:2px solid currentColor;" loading="lazy" allowfullscreen></iframe>
+<script>fitvids('.shareagain', {players: 'iframe'});</script>
+</div>
+
+Fin du test
 
 # *Le cours*
 
