@@ -23,7 +23,7 @@ xaringanExtra::embed_xaringan(url = "https://mallorydazza.github.io/Tutoriels/Tu
 Test d'un sketch p5.js
 
 ```{r embed-p5, echo=FALSE}
-xaringanExtra::embed_xaringan(url = "https://mallorydazza.github.io/Tutoriels/p5_test.html", ratio = "16:9")
+xaringanExtra::embed_xaringan(url = "https://mallorydazza.github.io/Tutoriels/RefractionReflexion.html", ratio = "16:9")
 ```
 
 Fin du test
